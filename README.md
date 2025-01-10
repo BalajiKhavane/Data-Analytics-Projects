@@ -1,2 +1,2 @@
 # Data-Analytics-Projects
-This is the repository where I am posting my projects related to the data analytics.
+The owner of madhav store wants us to help them create a dashboard to track and analyze their online sales across india.
